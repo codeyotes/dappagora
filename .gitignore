@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+seed-daemon/node_modules
+seed-daemon/node_modules/*
 
 # Editor directories and files
 .vscode/*

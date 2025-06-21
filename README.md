@@ -1,3 +1,12 @@
+## Building site with Svelte
+
+## Setup a seed daemon
+
+```sh
+cd seed-daemon
+npm install
+node daemon.js
+```
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
